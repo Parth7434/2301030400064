@@ -7,7 +7,7 @@
   - `Assignment_1`
   - `Assignment_2`
 - All files related to Assignment 1 are uploaded in `Assignment_1`.
-- This repository link will be submitted through the provided Google Form.
+
 
 ## 🎨 Task 2: Figma Prototype Design
 
